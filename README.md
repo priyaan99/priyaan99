@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @priyaan99.
-- 👀 I’m interested in system programming.
+- 👋 Hi, I’m Priyanshu @priyaan99.
+- 👀 I’m interested in system and game programming.
 - 🌱 I’m currently learning to write my own language in c and The Rust Programming language.
 
 <!---
